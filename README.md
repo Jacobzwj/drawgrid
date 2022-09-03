@@ -4,15 +4,12 @@ This is a R package to generate some n*n grids and randomly generate n points wi
 
 ## Installing
 ```py
-
+devtools::install_github("Jacobzwj/drawgrid")
 ```
 
 ## Dependencies:
-`pandas`  
-`geopy`  
-`plotly`  
-`tqdm`  
-`telethon`  
+`ggplot2`  
+`progress`  
 
 ## How to use
 

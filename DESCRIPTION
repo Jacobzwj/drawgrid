@@ -11,7 +11,7 @@ Authors@R: c(
            family = "Yi",
            role = c("aut", "cre"),
            email = "cyucatherine@gmail.com",
-           comment = c(ORCID = "0000-0001-9119-2324"))
+           comment = c(ORCID = "0000-0001-9119-2324")))
 Description: What the package does (This is a R package to generate some n*n grids and randomly generate n points within the grids).
 License:MIT + file LICENSE
 Encoding: UTF-8
