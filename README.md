@@ -3,7 +3,7 @@
 This is a R package to generate some n*n grids and randomly generate n points within the grids.
 
 ## Installing
-```py
+```R
 devtools::install_github("Jacobzwj/drawgrid")
 ```
 

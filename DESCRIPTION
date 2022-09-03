@@ -1,17 +1,16 @@
 Package: drawgrid
 Title: R package to generate some n*n grids and randomly generate n points within the grids
 Version: 0.0.0.9000
-Authors@R: c(
-    person(given = "Wanjiang Jacob",
+Authors@R: c(person(given = "Wanjiang Jacob",
            family = "Zhang",
            role = c("aut", "cre"),
            email = "zwj1994code@gmail.com",
-           comment = c(ORCID = "0000-0002-6806-8218"),
-    person(given = "Jingjing",
+           comment = c(ORCID = "0000-0002-6806-8218"),person(given = "Jingjing",
            family = "Yi",
            role = c("aut", "cre"),
            email = "cyucatherine@gmail.com",
-           comment = c(ORCID = "0000-0001-9119-2324")))
+           comment = c(ORCID = "0000-0001-9119-2324"))
+
 Description: What the package does (This is a R package to generate some n*n grids and randomly generate n points within the grids).
 License:MIT + file LICENSE
 Encoding: UTF-8
