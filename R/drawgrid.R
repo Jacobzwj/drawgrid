@@ -23,6 +23,3 @@ draw <- function(n_grid,n_point,n_figure){
     dev.off()
   }
 }
-
- 
-draw(4,5,10)
